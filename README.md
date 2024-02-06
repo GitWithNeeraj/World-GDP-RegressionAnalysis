@@ -33,4 +33,6 @@ world GDP time series
 
 ![image](https://github.com/GitWithNeeraj/World-GDP-RegressionAnalysis/assets/84373485/cbafed09-03e9-48a8-b2a6-2dd5b65c6a2d)
 ![image](https://github.com/GitWithNeeraj/World-GDP-RegressionAnalysis/assets/84373485/0866d212-fe61-4a43-b90e-121c255a6bb7)
+
+From 2015, the prediction of our model does not match with the actual gdp. Because, according to the our model, the rate of increase is greater than the actual increase in gdp data. Intuitively this makes sense as we would not expect gdp to increase at such a rapid rate.
 ![image](https://github.com/GitWithNeeraj/World-GDP-RegressionAnalysis/assets/84373485/fc5405e4-70e9-4b40-9b99-1771fad348ee)
