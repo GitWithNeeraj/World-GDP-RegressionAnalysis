@@ -28,7 +28,9 @@ Ensure you have Jupyter Notebook installed with numpy, matplotlib, scipy, and pa
 - scipy
 - pandas-datareader
 
-  
+
+world GDP time series
+
 ![image](https://github.com/GitWithNeeraj/World-GDP-RegressionAnalysis/assets/84373485/cbafed09-03e9-48a8-b2a6-2dd5b65c6a2d)
 ![image](https://github.com/GitWithNeeraj/World-GDP-RegressionAnalysis/assets/84373485/0866d212-fe61-4a43-b90e-121c255a6bb7)
 ![image](https://github.com/GitWithNeeraj/World-GDP-RegressionAnalysis/assets/84373485/fc5405e4-70e9-4b40-9b99-1771fad348ee)
